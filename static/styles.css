@@ -1,0 +1,16 @@
+body {
+  min-height: 100vh;
+}
+
+.card-header {
+  font-weight: 600;
+}
+
+.card {
+  border: none;
+  border-radius: 0.75rem;
+}
+
+.card.shadow-sm {
+  box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.05);
+}
